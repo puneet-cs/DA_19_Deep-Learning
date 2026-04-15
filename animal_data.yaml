@@ -1,0 +1,84 @@
+names:
+- Bear
+- Camel
+- Centipede
+- Crocodile
+- Elephant
+- Giraffe
+- Hamster
+- Horse
+- Koala
+- Lizard
+- Moths and butterflies
+- Otter
+- Penguin
+- Raccoon
+- Scorpion
+- Shark
+- Snake
+- Squirrel
+- Tiger
+- Whale
+- Brown bear
+- Canary
+- Cheetah
+- Deer
+- Fish
+- Goat
+- Harbor seal
+- Jaguar
+- Ladybug
+- Lynx
+- Mouse
+- Owl
+- Pig
+- Raven
+- Sea lion
+- Sheep
+- Sparrow
+- Starfish
+- Tortoise
+- Woodpecker
+- Bull
+- Caterpillar
+- Chicken
+- Duck
+- Fox
+- Goldfish
+- Hedgehog
+- Jellyfish
+- Leopard
+- Magpie
+- Mule
+- Panda
+- Polar bear
+- Red panda
+- Sea turtle
+- Shrimp
+- Spider
+- Swan
+- Turkey
+- Worm
+- Butterfly
+- Cattle
+- Crab
+- Eagle
+- Frog
+- Goose
+- Hippopotamus
+- Kangaroo
+- Lion
+- Monkey
+- Ostrich
+- Parrot
+- Rabbit
+- Rhinoceros
+- Seahorse
+- Snail
+- Squid
+- Tick
+- Turtle
+- Zebra
+path: animal_image_dataset
+train: train
+val: val

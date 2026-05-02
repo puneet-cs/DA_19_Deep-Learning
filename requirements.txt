@@ -1,0 +1,9 @@
+groq
+SpeechRecognition   # convert speech to text
+pyttsx3   # Text to Speech
+pyaudio  
+python-dotenv
+streamlit
+
+# pip install pipwin
+# pipwin install pyaudio
